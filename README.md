@@ -15,9 +15,9 @@ Provincias:
 Rota: http://localhost:5000/provinces
 Descrição: Retorna a lista de todas as províncias de Angola.
 Municipios:
-Rota: /provincias](http://localhost:5000/${selectedProvincia}/municipio
+Rota: http://localhost:5000/${selectedProvincia}/municipio
 Descrição: Retorna a lista de todos os municípios de uma província de Angola, com dados corrigidos e aprimorados.
 Comunas:
 
-Rota:http://localhost:5000/${selectedProvincia}/${selectedMunicipio})s
+Rota:http://localhost:5000/${selectedProvincia}/${selectedMunicipio}
 Descrição: Retorna a lista de todas as comunas de um município  de Angola, com melhorias significativas.
